@@ -1,0 +1,3 @@
+[submodule "src/TestCommon"]
+	path = src/TestCommon
+	url = https://github.com/netkoala/TestCommon.git
